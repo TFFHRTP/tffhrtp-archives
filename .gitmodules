@@ -1,0 +1,3 @@
+[submodule "nextjs/login"]
+	path = nextjs/login
+	url = https://github.com/VulcanWM/login-signup-nextjs
